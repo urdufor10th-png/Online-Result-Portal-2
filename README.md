@@ -398,7 +398,7 @@
 
   <!-- Official Top Navigation -->
   <div class="top-strip no-print">
-    <span>GOVERNMENT OF BIHAR STANDARD COGNIZANT PORTAL</span>
+    <span></span>
     <span>HELPLINE: +91 8789524958 | MON - SAT (08:00 AM - 06:00 PM)</span>
   </div>
 
@@ -485,7 +485,7 @@
         <div class="ms-header">
           <h2>LUCENT COACHING CENTRE</h2>
           <p>NEAR MITHILA EYE HOSPITAL, MUSRIGHARARI, SAMASTIPUR (BIHAR)</p>
-          <p>Helpline: +91 8789524958 | Affiliated Standard: Bihar School Examination Board (BSEB)</p>
+          <p>Helpline: +91 8789524958 | </p>
           <div class="doc-pill">ANNUAL PROGRESS REPORT / MARKS STATEMENT</div>
         </div>
 
